@@ -1,3 +1,6 @@
+from typing import List
+
+
 class Solution:
     def rob(self, nums: List[int]) -> int:
         cache = {}
@@ -17,4 +20,3 @@ class Solution:
             cache[i + 2] = nex
 
         return max(nums[i] + nex, cur)
-
