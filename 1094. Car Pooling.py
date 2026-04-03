@@ -1,9 +1,8 @@
+from typing import List
+
+
 class Solution:
     def carPooling(self, trips: List[List[int]], capacity: int) -> bool:
-        if not trips:
-            return True
-
-        trips.sort(key=lambda x: x[1])
         last_dest = 0
 
         pick_ups = {}
