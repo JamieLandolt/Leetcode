@@ -10,3 +10,10 @@ class Solution:
             else:
                 seen.remove(num)
         return list(seen)[0]
+
+class AltSolution:
+    def singleNumber(self, nums: List[int]) -> int:
+        num = 0
+        for i in nums:
+            num ^= i
+        return num
