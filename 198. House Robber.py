@@ -1,6 +1,6 @@
 from typing import List
 
-
+# Recursive + Memoization
 class Solution:
     def rob(self, nums: List[int]) -> int:
         cache = {}
@@ -20,3 +20,17 @@ class Solution:
             cache[i + 2] = nex
 
         return max(nums[i] + nex, cur)
+
+# DP
+class DPSolution:
+    def rob(self, nums: List[int]) -> int:
+        dp = [0 for _ in range(len(nums))]
+        for i, cost in enumerate(nums):
+            if i in (0, 1):
+                dp[i] = cost
+            elif i == 2:
+                dp[i] = dp[i - 2] + cost
+            else:
+                dp[i] = cost + max(dp[i - 2], dp[i - 3])
+        print(dp)
+        return max(dp[i - 1], dp[i])
