@@ -43,3 +43,5 @@
 | 1758 | Minimum Changes To Make Alternating Binary String | [1758. Minimum Changes To Make Alternating Binary String.py](problems/1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String.py) |
 | 3129 | Find All Possible Stable Binary Arrays I | [3129. Find All Possible Stable Binary Arrays I.py](problems/3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I.py) |
 | 3546 | Equal Sum Grid Partition I | [3546. Equal Sum Grid Partition I.py](problems/3546.%20Equal%20Sum%20Grid%20Partition%20I.py) |
+
+*Note: there may be some unfinished solutions, but I believe 95%+ are valid.*
