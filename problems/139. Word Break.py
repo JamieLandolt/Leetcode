@@ -2,20 +2,17 @@ from typing import List
 
 
 class Solution:
-    def wordBreak(self, s: str, wordDict: List[str], start=0) -> bool:
-        wordDict = set(wordDict)
-        found = False
-        word = ""
-        for i in range(len(s)):
-            if found:
-                return True
-            if i + start == len(s):
-                return True if not word or word in wordDict else False
-            word += s[i + start]
-            if word in wordDict:
-                found = max(self.wordBreak(s, wordDict, i + start + 1), found)
-        if word in wordDict:
-            return True
-        return found
+    def wordBreak(self, s: str, wordDict: List[str]) -> bool:
+        dp = [False] * (len(s) + 1)
 
-print(Solution().wordBreak("applepenapple", ["apple","pen"]))
+        for i in range(len(s) + 1):
+            if i == 0:
+                dp[i] = True
+                continue
+
+            for word in wordDict:
+                pos = i - len(word)
+                if pos >= 0 and dp[pos] and word == s[pos:i]:
+                    dp[i] = True
+        return dp[-1]
+
