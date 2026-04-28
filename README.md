@@ -29,7 +29,9 @@
 | 253 | Meeting Rooms II | [253. Meeting Rooms II.py](problems/253.%20Meeting%20Rooms%20II.py) |
 | 268 | Missing Number | [268. Missing Number.py](problems/268.%20Missing%20Number.py) |
 | 287 | Find the Duplicate Number | [287. Find the Duplicate Number.py](problems/287.%20Find%20the%20Duplicate%20Number.py) |
+| 300 | Longest Increasing Subsequence | [300. Longest Increasing Subsequence.py](problems/300.%20Longest%20Increasing%20Subsequence.py) |
 | 312 | Burst Balloons | [312. Burst Balloons.py](problems/312.%20Burst%20Balloons.py) |
+| 322 | Coin Change | [322. Coin Change.py](problems/322.%20Coin%20Change.py) |
 | 338 | Counting Bits | [338. Counting Bits.py](problems/338.%20Counting%20Bits.py) |
 | 452 | Minimum Number of Arrows to Burst Balloons | [452. Minimum Number of Arrows to Burst Balloons.py](problems/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.py) |
 | 647 | Palindromic Substrings | [647. Palindromic Substrings.py](problems/647.%20Palindromic%20Substrings.py) |
