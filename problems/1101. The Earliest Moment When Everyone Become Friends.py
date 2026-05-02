@@ -19,11 +19,10 @@ class Solution:
             if rank[p1_par] > rank[p2_par]:
                 par[p2_par] = p1_par
                 rank[p1_par] += rank[p2_par]
-                return 1
             else:
                 par[p1_par] = p2_par
                 rank[p2_par] += rank[p1_par]
-                return 1
+            return 1
 
         if n == 0:
             return 0
