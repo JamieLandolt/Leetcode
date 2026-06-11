@@ -6,6 +6,8 @@
 | 29 | Divide Two Integers | [29. Divide Two Integers.py](problems/29.%20Divide%20Two%20Integers.py) |
 | 50 | Pow(x, n) | [50. Pow(x, n).py](problems/50.%20Pow%28x%2C%20n%29.py) |
 | 55 | Jump Game | [55. Jump Game.py](problems/55.%20Jump%20Game.py) |
+| 56 | Merge Intervals | [56. Merge Intervals.py](problems/56.%20Merge%20Intervals.py) |
+| 57 | Insert Interval | [57. Insert Interval.py](problems/57.%20Insert%20Interval.py) |
 | 62 | Unique Paths | [62. Unique Paths.py](problems/62.%20Unique%20Paths.py) |
 | 66 | Plus One | [66. Plus One.py](problems/66.%20Plus%20One.py) |
 | 70 | Climbing Stairs | [70. Climbing Stairs.py](problems/70.%20Climbing%20Stairs.py) |
@@ -41,11 +43,13 @@
 | 322 | Coin Change | [322. Coin Change.py](problems/322.%20Coin%20Change.py) |
 | 338 | Counting Bits | [338. Counting Bits.py](problems/338.%20Counting%20Bits.py) |
 | 416 | Partition Equal Subset Sum | [416. Partition Equal Subset Sum.py](problems/416.%20Partition%20Equal%20Subset%20Sum.py) |
+| 417 | Pacific Atlantic Water Flow | [417. Pacific Atlantic Water Flow.py](problems/417.%20Pacific%20Atlantic%20Water%20Flow.py) |
 | 452 | Minimum Number of Arrows to Burst Balloons | [452. Minimum Number of Arrows to Burst Balloons.py](problems/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.py) |
 | 547 | Number of Provinces | [547. Number of Provinces.py](problems/547.%20Number%20of%20Provinces.py) |
 | 647 | Palindromic Substrings | [647. Palindromic Substrings.py](problems/647.%20Palindromic%20Substrings.py) |
 | 709 | To Lower Case | [709. To Lower Case.py](problems/709.%20To%20Lower%20Case.py) |
 | 746 | Min Cost Climbing Stairs | [746. Min Cost Climbing Stairs.py](problems/746.%20Min%20Cost%20Climbing%20Stairs.py) |
+| 874 | Walking Robot Simulation | [874. Walking Robot Simulation.py](problems/874.%20Walking%20Robot%20Simulation.py) |
 | 1010 | Pairs of Songs With Total Durations Divisible by 60 | [1010. Pairs of Songs With Total Durations Divisible by 60.py](problems/1010.%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.py) |
 | 1094 | Car Pooling | [1094. Car Pooling.py](problems/1094.%20Car%20Pooling.py) |
 | 1101 | The Earliest Moment When Everyone Become Friends | [1101. The Earliest Moment When Everyone Become Friends.py](problems/1101.%20The%20Earliest%20Moment%20When%20Everyone%20Become%20Friends.py) |
