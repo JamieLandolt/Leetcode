@@ -1,4 +1,4 @@
-# LeetCode Solutions
+# LeetCode Solutions (62 Solved)
 
 | # | Problem | Link |
 |---|--------|------|
