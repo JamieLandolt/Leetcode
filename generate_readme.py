@@ -15,7 +15,7 @@ files = os.listdir(PROBLEM_DIR)
 files.sort(key=extract_number)
 
 lines = [
-    "# LeetCode Solutions\n\n",
+    f"# LeetCode Solutions ({len(files)} Solved)\n\n",
     "| # | Problem | Link |\n",
     "|---|--------|------|\n"
 ]
