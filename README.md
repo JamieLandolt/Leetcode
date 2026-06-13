@@ -1,4 +1,4 @@
-# LeetCode Solutions (62 Solved)
+# LeetCode Solutions (66 Solved)
 
 | # | Problem | Link |
 |---|--------|------|
@@ -12,8 +12,10 @@
 | 66 | Plus One | [66. Plus One.py](problems/66.%20Plus%20One.py) |
 | 70 | Climbing Stairs | [70. Climbing Stairs.py](problems/70.%20Climbing%20Stairs.py) |
 | 72 | Edit Distance | [72. Edit Distance.py](problems/72.%20Edit%20Distance.py) |
+| 73 | Set Matrix Zeroes | [73. Set Matrix Zeroes.py](problems/73.%20Set%20Matrix%20Zeroes.py) |
 | 86 | Partition List | [86. Partition List.py](problems/86.%20Partition%20List.py) |
 | 89 | Gray Code | [89. Gray Code.py](problems/89.%20Gray%20Code.py) |
+| 98 | Validate Binary Search Tree | [98. Validate Binary Search Tree.py](problems/98.%20Validate%20Binary%20Search%20Tree.py) |
 | 101 | Symmetric Tree | [101. Symmetric Tree.py](problems/101.%20Symmetric%20Tree.py) |
 | 118 | Pascal's Triangle | [118. Pascal's Triangle.py](problems/118.%20Pascal%27s%20Triangle.py) |
 | 119 | Pascal's Triangle II | [119. Pascal's Triangle II.py](problems/119.%20Pascal%27s%20Triangle%20II.py) |
@@ -32,6 +34,7 @@
 | 191 | Number of 1 Bits | [191. Number of 1 Bits.py](problems/191.%20Number%20of%201%20Bits.py) |
 | 198 | House Robber | [198. House Robber.py](problems/198.%20House%20Robber.py) |
 | 205 | Isomorphic Strings | [205. Isomorphic Strings.py](problems/205.%20Isomorphic%20Strings.py) |
+| 206 | Reverse Linked List | [206. Reverse Linked List.py](problems/206.%20Reverse%20Linked%20List.py) |
 | 213 | House Robber II | [213. House Robber II.py](problems/213.%20House%20Robber%20II.py) |
 | 252 | Meeting Rooms | [252. Meeting Rooms.py](problems/252.%20Meeting%20Rooms.py) |
 | 253 | Meeting Rooms II | [253. Meeting Rooms II.py](problems/253.%20Meeting%20Rooms%20II.py) |
@@ -64,3 +67,4 @@
 | 3129 | Find All Possible Stable Binary Arrays I | [3129. Find All Possible Stable Binary Arrays I.py](problems/3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I.py) |
 | 3546 | Equal Sum Grid Partition I | [3546. Equal Sum Grid Partition I.py](problems/3546.%20Equal%20Sum%20Grid%20Partition%20I.py) |
 | 3558 | Number of Ways to Assign Edge Weights I | [3558. Number of Ways to Assign Edge Weights I.py](problems/3558.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20I.py) |
+| 3838 | Weighted Word Mapping | [3838. Weighted Word Mapping.py](problems/3838.%20Weighted%20Word%20Mapping.py) |
