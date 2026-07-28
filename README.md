@@ -1,4 +1,4 @@
-# LeetCode Solutions (71 Solved)
+# LeetCode Solutions (76 Solved)
 
 | # | Problem | Link |
 |---|--------|------|
@@ -43,6 +43,7 @@
 | 268 | Missing Number | [268. Missing Number.py](problems/268.%20Missing%20Number.py) |
 | 279 | Perfect Squares | [279. Perfect Squares.py](problems/279.%20Perfect%20Squares.py) |
 | 287 | Find the Duplicate Number | [287. Find the Duplicate Number.py](problems/287.%20Find%20the%20Duplicate%20Number.py) |
+| 297 | Serialize and Deserialize Binary Tree | [297. Serialize and Deserialize Binary Tree.py](problems/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.py) |
 | 300 | Longest Increasing Subsequence | [300. Longest Increasing Subsequence.py](problems/300.%20Longest%20Increasing%20Subsequence.py) |
 | 309 | Best Time to Buy and Sell Stock with Cooldown | [309. Best Time to Buy and Sell Stock with Cooldown.py](problems/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.py) |
 | 312 | Burst Balloons | [312. Burst Balloons.py](problems/312.%20Burst%20Balloons.py) |
@@ -50,7 +51,9 @@
 | 338 | Counting Bits | [338. Counting Bits.py](problems/338.%20Counting%20Bits.py) |
 | 416 | Partition Equal Subset Sum | [416. Partition Equal Subset Sum.py](problems/416.%20Partition%20Equal%20Subset%20Sum.py) |
 | 417 | Pacific Atlantic Water Flow | [417. Pacific Atlantic Water Flow.py](problems/417.%20Pacific%20Atlantic%20Water%20Flow.py) |
+| 424 | Longest Repeating Character Replacement | [424. Longest Repeating Character Replacement.py](problems/424.%20Longest%20Repeating%20Character%20Replacement.py) |
 | 452 | Minimum Number of Arrows to Burst Balloons | [452. Minimum Number of Arrows to Burst Balloons.py](problems/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.py) |
+| 496 | Next Greater Element I | [496. Next Greater Element I.py](problems/496.%20Next%20Greater%20Element%20I.py) |
 | 547 | Number of Provinces | [547. Number of Provinces.py](problems/547.%20Number%20of%20Provinces.py) |
 | 647 | Palindromic Substrings | [647. Palindromic Substrings.py](problems/647.%20Palindromic%20Substrings.py) |
 | 709 | To Lower Case | [709. To Lower Case.py](problems/709.%20To%20Lower%20Case.py) |
@@ -70,6 +73,8 @@
 | 2130 | Maximum Twin Sum of a Linked List | [2130. Maximum Twin Sum of a Linked List.py](problems/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List.py) |
 | 2361 | Minimum Costs Using the Train Line | [2361. Minimum Costs Using the Train Line.py](problems/2361.%20Minimum%20Costs%20Using%20the%20Train%20Line.py) |
 | 3129 | Find All Possible Stable Binary Arrays I | [3129. Find All Possible Stable Binary Arrays I.py](problems/3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I.py) |
+| 3517 | Smallest Palindromic Rearrangement I | [3517. Smallest Palindromic Rearrangement I.cpp](problems/3517.%20Smallest%20Palindromic%20Rearrangement%20I.cpp) |
+| 3536 | Maximum Product of Two Digits | [3536. Maximum Product of Two Digits.py](problems/3536.%20Maximum%20Product%20of%20Two%20Digits.py) |
 | 3546 | Equal Sum Grid Partition I | [3546. Equal Sum Grid Partition I.py](problems/3546.%20Equal%20Sum%20Grid%20Partition%20I.py) |
 | 3558 | Number of Ways to Assign Edge Weights I | [3558. Number of Ways to Assign Edge Weights I.py](problems/3558.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20I.py) |
 | 3838 | Weighted Word Mapping | [3838. Weighted Word Mapping.py](problems/3838.%20Weighted%20Word%20Mapping.py) |
