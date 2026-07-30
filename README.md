@@ -1,9 +1,10 @@
-# LeetCode Solutions (76 Solved)
+# LeetCode Solutions (85 Solved)
 
 | # | Problem | Link |
 |---|--------|------|
 | 5 | Longest Palindromic Substring | [5. Longest Palindromic Substring.py](problems/5.%20Longest%20Palindromic%20Substring.py) |
 | 29 | Divide Two Integers | [29. Divide Two Integers.py](problems/29.%20Divide%20Two%20Integers.py) |
+| 46 | Permutations | [46. Permutations.cpp](problems/46.%20Permutations.cpp) |
 | 50 | Pow(x, n) | [50. Pow(x, n).py](problems/50.%20Pow%28x%2C%20n%29.py) |
 | 55 | Jump Game | [55. Jump Game.py](problems/55.%20Jump%20Game.py) |
 | 56 | Merge Intervals | [56. Merge Intervals.py](problems/56.%20Merge%20Intervals.py) |
@@ -15,9 +16,12 @@
 | 73 | Set Matrix Zeroes | [73. Set Matrix Zeroes.py](problems/73.%20Set%20Matrix%20Zeroes.py) |
 | 86 | Partition List | [86. Partition List.py](problems/86.%20Partition%20List.py) |
 | 89 | Gray Code | [89. Gray Code.py](problems/89.%20Gray%20Code.py) |
+| 94 | Binary Tree Inorder Traversal | [94. Binary Tree Inorder Traversal.cpp](problems/94.%20Binary%20Tree%20Inorder%20Traversal.cpp) |
 | 98 | Validate Binary Search Tree | [98. Validate Binary Search Tree.py](problems/98.%20Validate%20Binary%20Search%20Tree.py) |
 | 100 | Same Tree | [100. Same Tree.py](problems/100.%20Same%20Tree.py) |
 | 101 | Symmetric Tree | [101. Symmetric Tree.py](problems/101.%20Symmetric%20Tree.py) |
+| 102 | Binary Tree Level Order Traversal | [102. Binary Tree Level Order Traversal.cpp](problems/102.%20Binary%20Tree%20Level%20Order%20Traversal.cpp) |
+| 104 | Maximum Depth of Binary Tree | [104. Maximum Depth of Binary Tree.cpp](problems/104.%20Maximum%20Depth%20of%20Binary%20Tree.cpp) |
 | 118 | Pascal's Triangle | [118. Pascal's Triangle.py](problems/118.%20Pascal%27s%20Triangle.py) |
 | 119 | Pascal's Triangle II | [119. Pascal's Triangle II.py](problems/119.%20Pascal%27s%20Triangle%20II.py) |
 | 120 | Triangle | [120. Triangle.py](problems/120.%20Triangle.py) |
@@ -25,6 +29,7 @@
 | 122 | Best Time to Buy and Sell Stock II | [122. Best Time to Buy and Sell Stock II.py](problems/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py) |
 | 125 | Valid Palindrome | [125. Valid Palindrome.py](problems/125.%20Valid%20Palindrome.py) |
 | 128 | Longest Consecutive Sequence | [128. Longest Consecutive Sequence.py](problems/128.%20Longest%20Consecutive%20Sequence.py) |
+| 129 | Sum Root to Leaf Numbers | [129. Sum Root to Leaf Numbers.cpp](problems/129.%20Sum%20Root%20to%20Leaf%20Numbers.cpp) |
 | 133 | Clone Graph | [133. Clone Graph.py](problems/133.%20Clone%20Graph.py) |
 | 136 | Single Number | [136. Single Number.py](problems/136.%20Single%20Number.py) |
 | 139 | Word Break | [139. Word Break.py](problems/139.%20Word%20Break.py) |
@@ -37,6 +42,9 @@
 | 205 | Isomorphic Strings | [205. Isomorphic Strings.py](problems/205.%20Isomorphic%20Strings.py) |
 | 206 | Reverse Linked List | [206. Reverse Linked List.py](problems/206.%20Reverse%20Linked%20List.py) |
 | 213 | House Robber II | [213. House Robber II.py](problems/213.%20House%20Robber%20II.py) |
+| 217 | Contains Duplicate | [217. Contains Duplicate.cpp](problems/217.%20Contains%20Duplicate.cpp) |
+| 226 | Invert Binary Tree | [226. Invert Binary Tree.cpp](problems/226.%20Invert%20Binary%20Tree.cpp) |
+| 242 | Valid Anagram | [242. Valid Anagram.cpp](problems/242.%20Valid%20Anagram.cpp) |
 | 252 | Meeting Rooms | [252. Meeting Rooms.py](problems/252.%20Meeting%20Rooms.py) |
 | 253 | Meeting Rooms II | [253. Meeting Rooms II.py](problems/253.%20Meeting%20Rooms%20II.py) |
 | 264 | Ugly Number II | [264. Ugly Number II.py](problems/264.%20Ugly%20Number%20II.py) |
@@ -49,6 +57,7 @@
 | 312 | Burst Balloons | [312. Burst Balloons.py](problems/312.%20Burst%20Balloons.py) |
 | 322 | Coin Change | [322. Coin Change.py](problems/322.%20Coin%20Change.py) |
 | 338 | Counting Bits | [338. Counting Bits.py](problems/338.%20Counting%20Bits.py) |
+| 347 | Top K Frequent Elements | [347. Top K Frequent Elements.cpp](problems/347.%20Top%20K%20Frequent%20Elements.cpp) |
 | 416 | Partition Equal Subset Sum | [416. Partition Equal Subset Sum.py](problems/416.%20Partition%20Equal%20Subset%20Sum.py) |
 | 417 | Pacific Atlantic Water Flow | [417. Pacific Atlantic Water Flow.py](problems/417.%20Pacific%20Atlantic%20Water%20Flow.py) |
 | 424 | Longest Repeating Character Replacement | [424. Longest Repeating Character Replacement.py](problems/424.%20Longest%20Repeating%20Character%20Replacement.py) |
