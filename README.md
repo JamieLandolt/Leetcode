@@ -1,4 +1,4 @@
-# LeetCode Solutions (85 Solved)
+# LeetCode Solutions (87 Solved)
 
 | # | Problem | Link |
 |---|--------|------|
@@ -31,6 +31,7 @@
 | 128 | Longest Consecutive Sequence | [128. Longest Consecutive Sequence.py](problems/128.%20Longest%20Consecutive%20Sequence.py) |
 | 129 | Sum Root to Leaf Numbers | [129. Sum Root to Leaf Numbers.cpp](problems/129.%20Sum%20Root%20to%20Leaf%20Numbers.cpp) |
 | 133 | Clone Graph | [133. Clone Graph.py](problems/133.%20Clone%20Graph.py) |
+| 135 | Candy | [135. Candy.cpp](problems/135.%20Candy.cpp) |
 | 136 | Single Number | [136. Single Number.py](problems/136.%20Single%20Number.py) |
 | 139 | Word Break | [139. Word Break.py](problems/139.%20Word%20Break.py) |
 | 144 | Binary Tree Preorder Traversal | [144. Binary Tree Preorder Traversal.py](problems/144.%20Binary%20Tree%20Preorder%20Traversal.py) |
@@ -62,6 +63,7 @@
 | 417 | Pacific Atlantic Water Flow | [417. Pacific Atlantic Water Flow.py](problems/417.%20Pacific%20Atlantic%20Water%20Flow.py) |
 | 424 | Longest Repeating Character Replacement | [424. Longest Repeating Character Replacement.py](problems/424.%20Longest%20Repeating%20Character%20Replacement.py) |
 | 452 | Minimum Number of Arrows to Burst Balloons | [452. Minimum Number of Arrows to Burst Balloons.py](problems/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.py) |
+| 486 | Predict the Winner | [486. Predict the Winner.cpp](problems/486.%20Predict%20the%20Winner.cpp) |
 | 496 | Next Greater Element I | [496. Next Greater Element I.py](problems/496.%20Next%20Greater%20Element%20I.py) |
 | 547 | Number of Provinces | [547. Number of Provinces.py](problems/547.%20Number%20of%20Provinces.py) |
 | 647 | Palindromic Substrings | [647. Palindromic Substrings.py](problems/647.%20Palindromic%20Substrings.py) |
