@@ -1,4 +1,4 @@
-# LeetCode Solutions (97 Solved)
+# LeetCode Solutions (100 Solved)
 
 | # | Problem | Link |
 |---|--------|------|
@@ -78,10 +78,12 @@
 | 709 | To Lower Case | [709. To Lower Case.py](problems/709.%20To%20Lower%20Case.py) |
 | 746 | Min Cost Climbing Stairs | [746. Min Cost Climbing Stairs.py](problems/746.%20Min%20Cost%20Climbing%20Stairs.py) |
 | 874 | Walking Robot Simulation | [874. Walking Robot Simulation.py](problems/874.%20Walking%20Robot%20Simulation.py) |
+| 994 | Rotting Oranges | [994. Rotting Oranges.cpp](problems/994.%20Rotting%20Oranges.cpp) |
 | 1010 | Pairs of Songs With Total Durations Divisible by 60 | [1010. Pairs of Songs With Total Durations Divisible by 60.py](problems/1010.%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.py) |
 | 1094 | Car Pooling | [1094. Car Pooling.py](problems/1094.%20Car%20Pooling.py) |
 | 1101 | The Earliest Moment When Everyone Become Friends | [1101. The Earliest Moment When Everyone Become Friends.py](problems/1101.%20The%20Earliest%20Moment%20When%20Everyone%20Become%20Friends.py) |
 | 1143 | Longest Common Subsequence | [1143. Longest Common Subsequence.py](problems/1143.%20Longest%20Common%20Subsequence.py) |
+| 1143 | Longest Common Subsequence | [1143. Longest Common Subsequence.cpp](problems/1143.%20Longest%20Common%20Subsequence.cpp) |
 | 1200 | Minimum Absolute Difference | [1200. Minimum Absolute Difference.py](problems/1200.%20Minimum%20Absolute%20Difference.py) |
 | 1536 | Minimum Swaps to Arrange a Binary Grid | [1536. Minimum Swaps to Arrange a Binary Grid.py](problems/1536.%20Minimum%20Swaps%20to%20Arrange%20a%20Binary%20Grid.py) |
 | 1545 | Find Kth Bit in Nth Binary String | [1545. Find Kth Bit in Nth Binary String.py](problems/1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String.py) |
@@ -99,3 +101,4 @@
 | 3558 | Number of Ways to Assign Edge Weights I | [3558. Number of Ways to Assign Edge Weights I.py](problems/3558.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20I.py) |
 | 3718 | Smallest Missing Multiple of K | [3718. Smallest Missing Multiple of K.py](problems/3718.%20Smallest%20Missing%20Multiple%20of%20K.py) |
 | 3838 | Weighted Word Mapping | [3838. Weighted Word Mapping.py](problems/3838.%20Weighted%20Word%20Mapping.py) |
+| 3876 | Construct Uniform Parity Array II | [3876. Construct Uniform Parity Array II.cpp](problems/3876.%20Construct%20Uniform%20Parity%20Array%20II.cpp) |
