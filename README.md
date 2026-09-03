@@ -1,4 +1,4 @@
-# LeetCode Solutions (87 Solved)
+# LeetCode Solutions (97 Solved)
 
 | # | Problem | Link |
 |---|--------|------|
@@ -6,9 +6,11 @@
 | 29 | Divide Two Integers | [29. Divide Two Integers.py](problems/29.%20Divide%20Two%20Integers.py) |
 | 46 | Permutations | [46. Permutations.cpp](problems/46.%20Permutations.cpp) |
 | 50 | Pow(x, n) | [50. Pow(x, n).py](problems/50.%20Pow%28x%2C%20n%29.py) |
+| 53 | Maximum Subarray | [53. Maximum Subarray.py](problems/53.%20Maximum%20Subarray.py) |
 | 55 | Jump Game | [55. Jump Game.py](problems/55.%20Jump%20Game.py) |
 | 56 | Merge Intervals | [56. Merge Intervals.py](problems/56.%20Merge%20Intervals.py) |
 | 57 | Insert Interval | [57. Insert Interval.py](problems/57.%20Insert%20Interval.py) |
+| 61 | Rotate List | [61. Rotate List.cpp](problems/61.%20Rotate%20List.cpp) |
 | 62 | Unique Paths | [62. Unique Paths.py](problems/62.%20Unique%20Paths.py) |
 | 66 | Plus One | [66. Plus One.py](problems/66.%20Plus%20One.py) |
 | 70 | Climbing Stairs | [70. Climbing Stairs.py](problems/70.%20Climbing%20Stairs.py) |
@@ -37,14 +39,19 @@
 | 144 | Binary Tree Preorder Traversal | [144. Binary Tree Preorder Traversal.py](problems/144.%20Binary%20Tree%20Preorder%20Traversal.py) |
 | 148 | Sort List | [148. Sort List.py](problems/148.%20Sort%20List.py) |
 | 169 | Majority Element | [169. Majority Element.py](problems/169.%20Majority%20Element.py) |
+| 172 | Factorial Trailing Zeroes | [172. Factorial Trailing Zeroes.cpp](problems/172.%20Factorial%20Trailing%20Zeroes.cpp) |
 | 190 | Reverse Bits | [190. Reverse Bits.py](problems/190.%20Reverse%20Bits.py) |
 | 191 | Number of 1 Bits | [191. Number of 1 Bits.py](problems/191.%20Number%20of%201%20Bits.py) |
+| 194 | Transpose File | [194. Transpose File.cpp](problems/194.%20Transpose%20File.cpp) |
 | 198 | House Robber | [198. House Robber.py](problems/198.%20House%20Robber.py) |
 | 205 | Isomorphic Strings | [205. Isomorphic Strings.py](problems/205.%20Isomorphic%20Strings.py) |
 | 206 | Reverse Linked List | [206. Reverse Linked List.py](problems/206.%20Reverse%20Linked%20List.py) |
+| 207 | Course Schedule | [207. Course Schedule.py](problems/207.%20Course%20Schedule.py) |
 | 213 | House Robber II | [213. House Robber II.py](problems/213.%20House%20Robber%20II.py) |
 | 217 | Contains Duplicate | [217. Contains Duplicate.cpp](problems/217.%20Contains%20Duplicate.cpp) |
 | 226 | Invert Binary Tree | [226. Invert Binary Tree.cpp](problems/226.%20Invert%20Binary%20Tree.cpp) |
+| 231 | Power of Two | [231. Power of Two.cpp](problems/231.%20Power%20of%20Two.cpp) |
+| 238 | Product of Array Except Self | [238. Product of Array Except Self.cpp](problems/238.%20Product%20of%20Array%20Except%20Self.cpp) |
 | 242 | Valid Anagram | [242. Valid Anagram.cpp](problems/242.%20Valid%20Anagram.cpp) |
 | 252 | Meeting Rooms | [252. Meeting Rooms.py](problems/252.%20Meeting%20Rooms.py) |
 | 253 | Meeting Rooms II | [253. Meeting Rooms II.py](problems/253.%20Meeting%20Rooms%20II.py) |
@@ -59,6 +66,7 @@
 | 322 | Coin Change | [322. Coin Change.py](problems/322.%20Coin%20Change.py) |
 | 338 | Counting Bits | [338. Counting Bits.py](problems/338.%20Counting%20Bits.py) |
 | 347 | Top K Frequent Elements | [347. Top K Frequent Elements.cpp](problems/347.%20Top%20K%20Frequent%20Elements.cpp) |
+| 365 | Water and Jug Problem | [365. Water and Jug Problem.py](problems/365.%20Water%20and%20Jug%20Problem.py) |
 | 416 | Partition Equal Subset Sum | [416. Partition Equal Subset Sum.py](problems/416.%20Partition%20Equal%20Subset%20Sum.py) |
 | 417 | Pacific Atlantic Water Flow | [417. Pacific Atlantic Water Flow.py](problems/417.%20Pacific%20Atlantic%20Water%20Flow.py) |
 | 424 | Longest Repeating Character Replacement | [424. Longest Repeating Character Replacement.py](problems/424.%20Longest%20Repeating%20Character%20Replacement.py) |
@@ -79,6 +87,7 @@
 | 1545 | Find Kth Bit in Nth Binary String | [1545. Find Kth Bit in Nth Binary String.py](problems/1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String.py) |
 | 1582 | Special Positions in a Binary Matrix | [1582. Special Positions in a Binary Matrix.py](problems/1582.%20Special%20Positions%20in%20a%20Binary%20Matrix.py) |
 | 1603 | Design Parking System | [1603. Design Parking System.py](problems/1603.%20Design%20Parking%20System.py) |
+| 1657 | Determine if Two Strings Are Close | [1657. Determine if Two Strings Are Close.cpp](problems/1657.%20Determine%20if%20Two%20Strings%20Are%20Close.cpp) |
 | 1758 | Minimum Changes To Make Alternating Binary String | [1758. Minimum Changes To Make Alternating Binary String.py](problems/1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String.py) |
 | 2095 | Delete the Middle Node of a Linked List | [2095. Delete the Middle Node of a Linked List.py](problems/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.py) |
 | 2130 | Maximum Twin Sum of a Linked List | [2130. Maximum Twin Sum of a Linked List.py](problems/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List.py) |
@@ -88,4 +97,5 @@
 | 3536 | Maximum Product of Two Digits | [3536. Maximum Product of Two Digits.py](problems/3536.%20Maximum%20Product%20of%20Two%20Digits.py) |
 | 3546 | Equal Sum Grid Partition I | [3546. Equal Sum Grid Partition I.py](problems/3546.%20Equal%20Sum%20Grid%20Partition%20I.py) |
 | 3558 | Number of Ways to Assign Edge Weights I | [3558. Number of Ways to Assign Edge Weights I.py](problems/3558.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20I.py) |
+| 3718 | Smallest Missing Multiple of K | [3718. Smallest Missing Multiple of K.py](problems/3718.%20Smallest%20Missing%20Multiple%20of%20K.py) |
 | 3838 | Weighted Word Mapping | [3838. Weighted Word Mapping.py](problems/3838.%20Weighted%20Word%20Mapping.py) |
