@@ -1,9 +1,10 @@
-# LeetCode Solutions (100 Solved)
+# LeetCode Solutions (107 Solved)
 
 | # | Problem | Link |
 |---|--------|------|
 | 5 | Longest Palindromic Substring | [5. Longest Palindromic Substring.py](problems/5.%20Longest%20Palindromic%20Substring.py) |
 | 29 | Divide Two Integers | [29. Divide Two Integers.py](problems/29.%20Divide%20Two%20Integers.py) |
+| 39 | Combination Sum | [39. Combination Sum.cpp](problems/39.%20Combination%20Sum.cpp) |
 | 46 | Permutations | [46. Permutations.cpp](problems/46.%20Permutations.cpp) |
 | 50 | Pow(x, n) | [50. Pow(x, n).py](problems/50.%20Pow%28x%2C%20n%29.py) |
 | 53 | Maximum Subarray | [53. Maximum Subarray.py](problems/53.%20Maximum%20Subarray.py) |
@@ -101,4 +102,10 @@
 | 3558 | Number of Ways to Assign Edge Weights I | [3558. Number of Ways to Assign Edge Weights I.py](problems/3558.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20I.py) |
 | 3718 | Smallest Missing Multiple of K | [3718. Smallest Missing Multiple of K.py](problems/3718.%20Smallest%20Missing%20Multiple%20of%20K.py) |
 | 3838 | Weighted Word Mapping | [3838. Weighted Word Mapping.py](problems/3838.%20Weighted%20Word%20Mapping.py) |
+| 3870 | Count Commas in Range | [3870. Count Commas in Range.cpp](problems/3870.%20Count%20Commas%20in%20Range.cpp) |
 | 3876 | Construct Uniform Parity Array II | [3876. Construct Uniform Parity Array II.cpp](problems/3876.%20Construct%20Uniform%20Parity%20Array%20II.cpp) |
+| 9995 | Encode and Decode Strings | [9995. Encode and Decode Strings.cpp](problems/9995.%20Encode%20and%20Decode%20Strings.cpp) |
+| 9996 | Subset Sum | [9996. Subset Sum.cpp](problems/9996.%20Subset%20Sum.cpp) |
+| 9997 | Comb DP | [9997. Comb DP.cpp](problems/9997.%20Comb%20DP.cpp) |
+| 9998 | Binary Knapsack | [9998. Binary Knapsack.cpp](problems/9998.%20Binary%20Knapsack.cpp) |
+| 9999 | Islands and Treasure | [9999. Islands and Treasure.cpp](problems/9999.%20Islands%20and%20Treasure.cpp) |
